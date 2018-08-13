@@ -1,0 +1,4 @@
+*.un~
+nextcloud/
+files/public/*
+*.swp
