@@ -1,10 +1,14 @@
 # Network-Diagram
 
+<p align="center">
+   <img src="https://raw.githubusercontent.com/zimmertr/Network-Diagram/master/Kubernetes_Lab_2019.png" height="600">
+</p>
+
 My current Network Diagram is based around a Proxmox VE server that hosts both Docker containers and QEMU Virtual Machines. All public services are terminated by an NGINX Reverse Proxy. There are a multitude of physical devices, containers, and virtual machines present in the infrastructure.   
 
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/zimmertr/Network-Diagram/master/Proxmox_Lab_2018-Current.png" height="600">
+   <img src="https://raw.githubusercontent.com/zimmertr/Network-Diagram/master/Proxmox_Lab_2018-2019.png" height="600">
 </p>
 
 
